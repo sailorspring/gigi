@@ -1,0 +1,48 @@
+body {background-color: #5b9bbe;
+    top: 0;left: 0;}
+
+nav {background-color: #d9d3c3;
+    width: 100%;
+    position: absolute;
+    height: 110px;
+    text-align: right;
+    justify-content: center;}
+
+.logo { position: absolute;
+        left: 20px;}
+
+nav a {text-decoration: none;
+    font-family: 'Lucida Sans';
+    color: #3d1a06;
+    position: relative;
+    top: 35px;
+    text-align: center;
+    font-size: 25px;
+    margin: 25px;
+    }
+
+.lupim {width: 600px;
+    border-radius: 20px;
+    position: relative;
+    top: -200px; left: 40%;}
+
+.holmes {width: 600px;
+        border-radius: 20px;
+        position: relative;
+        top: -200px; left: 40%;}
+        
+h1 {position: relative;
+    top: 160px;
+    text-align: left;
+    color: #3d1a06;}
+
+p {position: relative;
+    width: 650px;
+    top:160px;
+    font-family: 'Lucida Sans';
+    line-height: 30px;
+    text-justify: auto;}
+
+.botao {background-color: #d9d3c3;
+    width: 120%;
+    text-align: center;}
